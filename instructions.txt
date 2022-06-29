@@ -3,13 +3,12 @@
 
 //2. Require dependencies in server.js
 
-//7. Create gitignore file [add node modules to it] and push to github
+//3. Create gitignore file [add node modules to it] and push to github
 
-//3. Declare variables
+//4. Declare variables
 
-
-
-//4. Connect to MongoDB - add connection string to .env file
+//5. Connect to MongoDB - add connection string to .env file
+//establish connection to mongodb
 
 //5. Add .env file to gitignore
 
