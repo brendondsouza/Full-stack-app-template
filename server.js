@@ -24,6 +24,14 @@ app.use(express.json())                         //parse json data
 app.use(cors())                                 //allows cross origin requests
 
 
+app.get('/', async (request, response) => {
+  try {
+      response.render('index.ejs')
+  } catch (error) {
+      response.status(500).send({message: error.message})
+  }
+})
+
 app.listen(process.env.PORT || PORT, _ => {
   console.log(`Server is running on PORT`)
 })
