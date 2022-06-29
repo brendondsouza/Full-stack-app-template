@@ -3,16 +3,17 @@
 
 //2. Require dependencies in server.js
 
-//3. Create gitignore file [add node modules to it] and push to github
+//3. Create gitignore file [add node modules] and push to github
 
 //4. Declare variables
 
-//5. Connect to MongoDB - add connection string to .env file
-//establish connection to mongodb
+//5. Connect to MongoDB - add connection string to .env file && Establish connection to mongodb 
 
-//5. Add .env file to gitignore
+//6. Add .env file to gitignore
 
-//5. Create Port
+//7. Create Port in .env file if you choose to. Start listening to the port 
+
+//8. Save script in package.json file for nodemon [ "dev": "nodemon server.js"] Now you can run nodemon using [npm run dev]
 
 //----Test Mongo and Port Connection
 
