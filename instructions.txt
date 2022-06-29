@@ -17,15 +17,15 @@
 
 //----Test Mongo and Port Connection
 
-//6. Set middleware
+//9. Set middleware
 
-//8. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
+//10. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
-// Add content to main.js, style.css, index.ejs
+//11 Add content to main.js, style.css, index.ejs
 
-//9. From root, init local git repo and commit
+//12. From root, init local git repo and commit
 
-//10. Create heroku repo
+//13. Create heroku repo
 
 // heroku login
 // heroku create [choose name- not mandatory-heroku will pick unique name]
